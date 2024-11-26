@@ -1,8 +1,8 @@
-# Maven-Market-Dashboard-
+# Maven-Market-Dashboard
 
 Welcome to the Maven Market Analysis Dashboard project! This repository contains a comprehensive market analysis dashboard created using Power BI. The project involved working with 8 CSV files to extract and visualize key insights about products, revenue, sales, profit, and customer details.
 
-# PROJECT OVERVIEW:
+# Project Overview:
 
 The objective of this project was to create a detailed and insightful dashboard that provides valuable business intelligence for Maven Market. The data sources included various CSV files related to products, customers, returns, and transactions.
 
